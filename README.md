@@ -1,2 +1,2 @@
 # stuff
-some concepts and ideas
+Placeholder repo for now
