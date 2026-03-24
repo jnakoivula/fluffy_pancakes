@@ -1,4 +1,4 @@
-#ATM Project Group_5
+# ATM Project Group_5
 
 ## Description
 
@@ -15,7 +15,7 @@ The ATM program is built as a Qt/C++ desktop application, from which data is tra
 The tools utilized in the work are Qt Creator, Visual Studio Code, Lucidchart, MySQL Workbench and GitHub. These tools make up the development environment.
 
 ## Database
-![ER Diagram](documents/ER-kaavio valmis.png)
+![ER Diagram](documents/ER-kaavio_valmis.png)
 
 ## Prerequisites
 
